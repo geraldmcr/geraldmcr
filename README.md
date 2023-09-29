@@ -2,17 +2,17 @@
 
 ## Hi there 👋 , I'm Gerald Murillo!
 [![Linkedin: gerald](https://img.shields.io/badge/geraldmurillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldmurillo/)](https://www.linkedin.com/in/geraldmurillo/)
-### Technical Business/Data Analyst
+### Data Scientist | Technical Business/Data Analyst
 🔭 Experience on Engineering & IT projects, Technology Sector
 
 ## Skills
-👨‍💻 Python, R
+👨‍💻  Python and R
 
 ⚙️ Azure, AWS, GCP
 
-👁️ PowerBI, Jupyter Notebook, Knime, QGIS
+👁️ PowerBI, Jupyter Notebook, Knime
 
-💽 MySQL, SQL, Mongo
+💽 MySQL, Oracle, Mongo
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
