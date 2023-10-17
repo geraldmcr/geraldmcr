@@ -2,7 +2,7 @@
 
 ## Hi there 👋 , I'm Gerald Murillo!
 [![Linkedin: gerald](https://img.shields.io/badge/geraldmurillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldmurillo/)](https://www.linkedin.com/in/geraldmurillo/)
-### Data Scientist | Technical Business/Data Analyst
+### Technical Business/Data Analyst
 🔭 Experience on Engineering & IT projects, Technology Sector
 
 ## Skills
